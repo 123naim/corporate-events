@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "name": "Entomology International Congress of Vancouver",
+        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
+        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
+        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
+        "city": "New York",
+        "organized_by": "Tixtaide",
+        "details_info": {
+            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
+            "time": " 10:00 am - 10:00 pm",
+            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
+            "evetn_about2": "Creating a co-founder agreement",
+            "evetn_about3": "Importance of defined roles",
+            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+        },
+        "speaker": [
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "John Duo",
+                "speaker_profession": "Producer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Mosh Hamedani",
+                "speaker_profession": "Software Engineer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Marc Abrahams",
+                "speaker_profession": "Editor at Improbable"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Entomology International Congress of Vancouver",
+        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
+        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
+        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
+        "city": "New York",
+        "organized_by": "Tixtaide",
+        "details_info": {
+            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
+            "time": " 10:00 am - 10:00 pm",
+            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
+            "evetn_about2": "Creating a co-founder agreement",
+            "evetn_about3": "Importance of defined roles",
+            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+        },
+        "speaker": [
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "John Duo",
+                "speaker_profession": "Producer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Mosh Hamedani",
+                "speaker_profession": "Software Engineer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Marc Abrahams",
+                "speaker_profession": "Editor at Improbable"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Entomology International Congress of Vancouver",
+        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
+        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
+        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
+        "city": "New York",
+        "organized_by": "Tixtaide",
+        "details_info": {
+            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
+            "time": " 10:00 am - 10:00 pm",
+            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
+            "evetn_about2": "Creating a co-founder agreement",
+            "evetn_about3": "Importance of defined roles",
+            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+        },
+        "speaker": [
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "John Duo",
+                "speaker_profession": "Producer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Mosh Hamedani",
+                "speaker_profession": "Software Engineer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Marc Abrahams",
+                "speaker_profession": "Editor at Improbable"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Entomology International Congress of Vancouver",
+        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
+        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
+        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
+        "city": "New York",
+        "organized_by": "Tixtaide",
+        "details_info": {
+            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
+            "time": " 10:00 am - 10:00 pm",
+            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
+            "evetn_about2": "Creating a co-founder agreement",
+            "evetn_about3": "Importance of defined roles",
+            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+        },
+        "speaker": [
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "John Duo",
+                "speaker_profession": "Producer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Mosh Hamedani",
+                "speaker_profession": "Software Engineer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Marc Abrahams",
+                "speaker_profession": "Editor at Improbable"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Entomology International Congress of Vancouver",
+        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
+        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
+        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
+        "city": "New York",
+        "organized_by": "Tixtaide",
+        "details_info": {
+            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
+            "time": " 10:00 am - 10:00 pm",
+            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
+            "evetn_about2": "Creating a co-founder agreement",
+            "evetn_about3": "Importance of defined roles",
+            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+        },
+        "speaker": [
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "John Duo",
+                "speaker_profession": "Producer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Mosh Hamedani",
+                "speaker_profession": "Software Engineer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Marc Abrahams",
+                "speaker_profession": "Editor at Improbable"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Entomology International Congress of Vancouver",
+        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
+        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
+        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
+        "city": "New York",
+        "organized_by": "Tixtaide",
+        "details_info": {
+            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
+            "time": " 10:00 am - 10:00 pm",
+            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
+            "evetn_about2": "Creating a co-founder agreement",
+            "evetn_about3": "Importance of defined roles",
+            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+        },
+        "speaker": [
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "John Duo",
+                "speaker_profession": "Producer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Mosh Hamedani",
+                "speaker_profession": "Software Engineer"
+            },
+            {
+                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_name": "Marc Abrahams",
+                "speaker_profession": "Editor at Improbable"
+            }
+        ]
+    }
+    
+]
