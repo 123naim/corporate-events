@@ -11,6 +11,9 @@ import Category from './Pages/Category';
 import Contact from './Pages/Contact';
 import Login from './Pages/Login';
 import SingleDataDetails from './Components/SingleDataDetails';
+import AuthProvider from './Provider/AuthProvider';
+import Registration from './Pages/Registration';
+import PrivateRoute from './Routes/PrivateRoute';
 
 
 const router = createBrowserRouter([
@@ -24,19 +27,23 @@ const router = createBrowserRouter([
       },
       {
         path: '/category',
-        element: <Category></Category>
+        element: <PrivateRoute><Category></Category></PrivateRoute>
       },
       {
         path: '/carddetail/:id',
-        element: <SingleDataDetails></SingleDataDetails>
+        element: <PrivateRoute><SingleDataDetails></SingleDataDetails></PrivateRoute>
       },
       {
         path: '/contact',
-        element: <Contact></Contact>
+        element: <PrivateRoute><Contact></Contact></PrivateRoute>
       },
       {
         path: '/login',
         element: <Login></Login>
+      },
+      {
+        path: '/signup',
+        element: <Registration></Registration>
       }
     ]
   },
@@ -44,6 +51,6 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <AuthProvider><RouterProvider router={router} /></AuthProvider>
   </React.StrictMode>,
 )

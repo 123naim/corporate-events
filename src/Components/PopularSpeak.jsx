@@ -10,7 +10,6 @@ const PopularSpeak = () => {
         .then(data => setPopularSpeaker(data))
     }, [])
 
-    console.log(popularSpeaker)
     return (
         <div className="grid md:grid-cols-4 gap-8">
             {

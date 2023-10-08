@@ -1,8 +1,9 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import Banner from "../Navbar-banner/Banner";
 import SingleData from "../Components/SingleData";
 import OrganizData from "../Components/organizData";
 import PopularSpeak from "../Components/PopularSpeak";
+import { AuthContext } from "../Provider/AuthProvider";
 
 
 const Home = () => {
@@ -22,7 +23,7 @@ const Home = () => {
         .then(data => setOrganizData(data))
     }, [])
 
-    
+    const {name} = useContext(AuthContext);
 
     return (
         <div>
