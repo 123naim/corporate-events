@@ -49,21 +49,21 @@ const SingleDataDetails = () => {
     return (
         <div>
             <div className="relative">
-                <img src={cardDetails.event_img} className="w-full h-[450px] mt-12 rounded-xl" alt="" />
+                <img src={cardDetails.event_img} className="w-full md:h-[450px] mt-12 rounded-xl" alt="" />
                 <div class="absolute inset-0 bg-black opacity-40 rounded-xl"></div>
-                <div className="absolute flex items-center gap-8 top-36 left-12">
+                <div className="absolute flex items-center gap-3 md:gap-8 top-12 left-2 md:top-36 md:left-12 w-24 h-24">
                     <img className="rounded-xl" src={cardDetails.event_logo} alt="" />
                     <div className="text-white">
-                        <h2 className="text-3xl font-bold w-[600px] mb-3">{cardDetails.name}</h2>
-                        <p className="font-[500]">Date: {cardDetails.date}</p>
+                        <h2 className="md:text-3xl text-[17px] font-bold w-[600px] mb-3">{cardDetails.name}</h2>
+                        <p className="font-[500] md:text-[18px] text-[12px]">Date: {cardDetails.date}</p>
                         <p className="font-[500]">Time: {cardDetails.details_info.time}</p>
                         <p className="font-[500]">Vanue: {cardDetails.city}</p>
                     </div>
                 </div>
             </div>
-            <div className="grid grid-cols-3 gap-8 mt-10">
-                <div className="col-span-2">
-                    <div className="bg-gray-100 p-10 rounded-xl">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-10">
+                <div className="md:col-span-2">
+                    <div className="bg-gray-100 p-4 md:p-10 rounded-xl">
                         <img className="rounded-xl" src={cardDetails.event_img} alt="" />
                         <h1 className="text-4xl font-bold mt-10 mb-6 ">Event Information</h1>
                         <p className="text-gray-600 text-[18px]">{cardDetails.details_info.event_info}</p>
@@ -80,7 +80,7 @@ const SingleDataDetails = () => {
                     </div>
                     <div className="my-10 bg-gray-100 p-10 rounded-xl">
                         <h2 className="text-4xl font-bold mb-10">Speaker</h2>
-                        <div className="grid grid-cols-3 gap-8">
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                             {
                                 cardDetails.speaker.map(speak => <>
                                     <div className="border py-7 rounded-xl text-center">

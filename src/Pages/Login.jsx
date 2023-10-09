@@ -50,7 +50,7 @@ const Login = () => {
             <div className="hero mt-7 rounded-xl bg-base-200">
                 <div className="hero-content flex-col">
                     <h2 className="text-4xl font-bold">Please Login</h2>
-                    <div className="card flex-shrink-0 w-[330px] max-w-sm shadow-2xl bg-base-100">
+                    <div className="card flex-shrink-0 md:w-[330px] max-w-sm shadow-2xl bg-base-100">
                         <form onSubmit={handleLogin} className="card-body">
                             <div className="form-control">
                                 <label className="label">
