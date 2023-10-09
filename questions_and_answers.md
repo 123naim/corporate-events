@@ -50,6 +50,10 @@ sum(1, "2");
 #### Answer: ?
 
 <i>Write your explanation here</i>
+<p>
+  Answer: C. </br>
+  Explnation:- sum(1, "2"): You call the sum function with two arguments, 1 and "2". "2" is a string, and 1 is a number. So OutPut Option C.
+</p>
 
 </p>
 </details>
@@ -76,6 +80,11 @@ console.log(food);
 #### Answer: ?
 
 <i>Write your explanation here</i>
+<p>
+  Answer: A. </br>
+  create an array called food containing four food emojis.
+  create an object info with a property favoriteFood initially set to the first element of the food array ("🍕"). Later, change the value of info.favoriteFood to "🍝," but this change does not affect the original food array.
+</p>
 
 </p>
 </details>
@@ -101,6 +110,10 @@ console.log(sayHi());
 #### Answer: ?
 
 <i>Write your explanation here</i>
+<p>
+  Answer: B. </br>
+  call the sayHi() function without providing a name argument, resulting in undefined for name. function creates a greeting string with the undefined name, Reading to "Hi there, undefined" as the output.
+</p>
 
 </p>
 </details>
@@ -129,6 +142,10 @@ console.log(count);
 #### Answer: ?
 
 <i>Write your explanation here</i>
+<p>
+  Answer: A. </br>
+  The code initializes a count variable to 0 and creates an array nums with four numbers. It uses the forEach method to iterate through nums, incrementing count for each non-zero element, resulting in 1 being logged to the console.
+</p>
 
 </p>
 </details>
