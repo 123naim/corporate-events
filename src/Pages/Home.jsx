@@ -30,8 +30,8 @@ const Home = () => {
             <div className="">
                 <Banner></Banner>
             </div>
-            <div className="my-16">
-                <h2 className="text-center text-6xl font-semibold mb-12">Featured Events</h2>
+            <div className="my-8 md:my-16">
+                <h2 className="text-center text-3xl md:text-6xl font-semibold md:mb-12 mb-6">Featured Events</h2>
                 <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
                     {
                         allData.map(singleData => <SingleData key={singleData.id} singleData={singleData}></SingleData>)

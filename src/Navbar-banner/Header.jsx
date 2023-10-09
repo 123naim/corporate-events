@@ -10,7 +10,7 @@ const Header = () => {
     const pageLink = <>
         <li><NavLink to='/'>Home</NavLink></li>
         <li><NavLink to='/about'>AboutUs</NavLink></li>
-        <li><NavLink to='/contact'>Contact</NavLink></li>
+        <li><NavLink to='/sponsor'>Sponsor</NavLink></li>
     </>
 
     const handleLogout = () => {
@@ -25,16 +25,16 @@ const Header = () => {
 
 
     return (
-        <div className=" -mt-1 flex justify-between bg-violet-600 text-white items-center py-4 border rounded-b-xl px-3">
-            <div className="pl-3">
+        <div className=" -mt-1 flex flex-col md:flex-row justify-between bg-violet-600 text-white items-center py-4 border rounded-b-xl px-3">
+            <div>
                 <img className="w-48 h-12" src={logo} alt="" />
             </div>
-            <div className="">
+            <div className="mt-3 md:mt-0">
                 <ul className="flex gap-4 text-xl font-semibold">
                     {pageLink}
                 </ul>
             </div>
-            <div className="">
+            <div className="mt-5 md:mt-0">
                 <p className="text-xl flex items-center gap-4 font-semibold">
                     <div>
                         {

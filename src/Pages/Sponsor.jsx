@@ -1,13 +1,13 @@
 
-const Contact = () => {
+const Sponsor = () => {
     return (
         <div className="my-16">
             <div className="text-center my-4">
-                <h2 className="text-5xl font-bold">Meet Our Official Sponsors & Partners</h2>
+                <h2 className="md:text-5xl text-3xl font-bold">Meet Our Official Sponsors & Partners</h2>
                 <p className="text-xl mt-1">Genesis Expo wouldn’t be possible without our awesome sponsors!</p>
             </div>
             <div className="mt-16">
-                <div className="grid grid-cols-4 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
                     <div className="bg-gray-200 h-[200px] flex items-center justify-center rounded-xl shadow-2xl">
                         <img src="https://i.ibb.co/3mG5sdr/client-7-vetrov-240x136.png" alt="" />
                     </div>
@@ -39,4 +39,4 @@ const Contact = () => {
     );
 };
 
-export default Contact;
+export default Sponsor;

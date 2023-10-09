@@ -61,10 +61,10 @@ const Registration = () => {
     return (
         <div>
             <div>
-                <div className="hero mt-0 rounded-xl bg-base-200">
-                    <div className="hero-content -mt-2 flex-col">
+                <div className="hero mt-14 md:mt-0 rounded-xl bg-base-200">
+                    <div className="hero-content md:-mt-2 flex-col">
                         <h2 className="text-4xl font-bold">Please SignUp</h2>
-                        <div className="card w-[380px] flex-shrink-0 max-w-sm shadow-2xl bg-base-100">
+                        <div className="card w-[300px] md:w-[380px] flex-shrink-0 max-w-sm shadow-2xl bg-base-100">
                             <form onSubmit={handlesubmit} className="card-body -mt-3 -mb-">
                                 <div className="form-control">
                                     <label className="label -mt-3">

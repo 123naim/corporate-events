@@ -8,13 +8,13 @@ import {
 import Root from './Root/Root.jsx';
 import Home from './Pages/Home';
 import AboutUs from './Pages/AboutUs';
-import Contact from './Pages/Contact';
 import Login from './Pages/Login';
 import SingleDataDetails from './Components/SingleDataDetails';
 import AuthProvider from './Provider/AuthProvider';
 import Registration from './Pages/Registration';
 import PrivateRoute from './Routes/PrivateRoute';
 import ErrorPage from './Pages/ErrorPage';
+import Sponsor from './Pages/Sponsor';
 
 
 const router = createBrowserRouter([
@@ -36,8 +36,8 @@ const router = createBrowserRouter([
         element: <PrivateRoute><SingleDataDetails></SingleDataDetails></PrivateRoute>
       },
       {
-        path: '/contact',
-        element: <PrivateRoute><Contact></Contact></PrivateRoute>
+        path: '/sponsor',
+        element: <PrivateRoute><Sponsor></Sponsor></PrivateRoute>
       },
       {
         path: '/login',
