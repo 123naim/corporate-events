@@ -49,7 +49,7 @@ const SingleDataDetails = () => {
     return (
         <div>
             <div className="relative">
-                <img src="https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg" className="w-full h-[450px] mt-12 rounded-xl" alt="" />
+                <img src={cardDetails.event_img} className="w-full h-[450px] mt-12 rounded-xl" alt="" />
                 <div class="absolute inset-0 bg-black opacity-40 rounded-xl"></div>
                 <div className="absolute flex items-center gap-8 top-36 left-12">
                     <img className="rounded-xl" src={cardDetails.event_logo} alt="" />
@@ -64,7 +64,7 @@ const SingleDataDetails = () => {
             <div className="grid grid-cols-3 gap-8 mt-10">
                 <div className="col-span-2">
                     <div className="bg-gray-100 p-10 rounded-xl">
-                        <img className="rounded-xl" src={cardDetails.details_info.event_cover_img} alt="" />
+                        <img className="rounded-xl" src={cardDetails.event_img} alt="" />
                         <h1 className="text-4xl font-bold mt-10 mb-6 ">Event Information</h1>
                         <p className="text-gray-600 text-[18px]">{cardDetails.details_info.event_info}</p>
                         <h1 className="text-4xl font-bold mt-10 mb-6 ">Event About</h1>
@@ -88,12 +88,12 @@ const SingleDataDetails = () => {
                                             <img className="rounded-full" src={speak.speaker_img} alt="" />
                                         </div>
                                         <h3 className="mt-6 text-xl font-semibold">{speak.speaker_name}</h3>
-                                        <p className="mt-2 text-gray-700">{speak.speaker_name}</p>
+                                        <p className="mt-2 text-gray-700">{speak.speaker_profession}</p>
                                         <p className="flex gap-2 items-center justify-center mt-7">
-                                            <FaFacebookF></FaFacebookF>
-                                            <FaTwitter></FaTwitter>
-                                            <FaLinkedinIn></FaLinkedinIn>
-                                            <FaInstagram></FaInstagram>
+                                            <FaFacebookF className="text-blue-700"></FaFacebookF>
+                                            <FaTwitter className="text-blue-500"></FaTwitter>
+                                            <FaLinkedinIn className="text-blue-500"></FaLinkedinIn>
+                                            <FaInstagram className="text-red-500"></FaInstagram>
                                         </p>
                                     </div>
                                 </>)

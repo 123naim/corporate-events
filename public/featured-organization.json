@@ -8,38 +8,38 @@
     },
     {
         "id": 2,
-        "organiz_img": "https://i.ibb.co/Jn6GZqX/organizer-logo-1.png",
-        "organiz_name": "The Healthcare Center",
-        "event_no": "17 Event",
-        "organiz_location": "Manitoba, Canada"
+        "organiz_img": "https://i.ibb.co/WykGTqK/organizer-logo-2.png",
+        "organiz_name": "Info Connect",
+        "event_no": "18 Event",
+        "organiz_location": "Iowa, United State"
     },
     {
         "id": 3,
-        "organiz_img": "https://i.ibb.co/Jn6GZqX/organizer-logo-1.png",
-        "organiz_name": "The Healthcare Center",
-        "event_no": "17 Event",
-        "organiz_location": "Manitoba, Canada"
+        "organiz_img": "https://i.ibb.co/7vhkNM9/organizer-logo-3.png",
+        "organiz_name": "Enterprising Women",
+        "event_no": "20 Event",
+        "organiz_location": "British Columbia"
     },
     {
         "id": 4,
-        "organiz_img": "https://i.ibb.co/Jn6GZqX/organizer-logo-1.png",
-        "organiz_name": "The Healthcare Center",
-        "event_no": "17 Event",
-        "organiz_location": "Manitoba, Canada"
+        "organiz_img": "https://i.ibb.co/db0px14/organizer-logo-4.png",
+        "organiz_name": "Key Mediar",
+        "event_no": "25 Event",
+        "organiz_location": "Russia"
     },
     {
         "id": 5,
-        "organiz_img": "https://i.ibb.co/Jn6GZqX/organizer-logo-1.png",
-        "organiz_name": "The Healthcare Center",
-        "event_no": "17 Event",
-        "organiz_location": "Manitoba, Canada"
+        "organiz_img": "https://i.ibb.co/JzK9bjz/organizer-logo-5.png",
+        "organiz_name": "Sigma Music",
+        "event_no": "10 Event",
+        "organiz_location": "Bor, Serbia"
     },
     {
         "id": 6,
-        "organiz_img": "https://i.ibb.co/Jn6GZqX/organizer-logo-1.png",
-        "organiz_name": "The Healthcare Center",
-        "event_no": "17 Event",
-        "organiz_location": "Manitoba, Canada"
+        "organiz_img": "https://i.ibb.co/qCRxZwR/organizer-logo-6.png",
+        "organiz_name": "Worldex Company",
+        "event_no": "15 Event",
+        "organiz_location": "Texas, United State"
     }
    
     

@@ -1,42 +1,50 @@
 [
     {
+        "id": 1,
         "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
         "speaker_name": "John Duo",
         "speaker_profession": "Producer"
     },
     {
-        "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
-        "speaker_name": "John Duo",
-        "speaker_profession": "Producer"
+        "id": 2,
+        "speaker_img": "https://i.ibb.co/9c8LkPg/speaker-2.jpg",
+        "speaker_name": "Mosh Hamedani",
+        "speaker_profession": "Software Engineer"
     },
     {
-        "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
-        "speaker_name": "John Duo",
-        "speaker_profession": "Producer"
+        "id": 3,
+        "speaker_img": "https://i.ibb.co/QD4c2D1/speaker-3.jpg",
+        "speaker_name": "Marc Abrahams",
+        "speaker_profession": "Editor at Improbable"
     },
     {
-        "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
-        "speaker_name": "John Duo",
-        "speaker_profession": "Producer"
+        "id": 4,
+        "speaker_img": "https://i.ibb.co/YD11jB2/speaker-4.jpg",
+        "speaker_name": "Leyla Acaroglu",
+        "speaker_profession": "CEO at addis"
     },
     {
-        "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
-        "speaker_name": "John Duo",
-        "speaker_profession": "Producer"
+        "id": 5,
+        "speaker_img": "https://i.ibb.co/7v9PwXd/speaker-5.jpg",
+        "speaker_name": "Mike Addis",
+        "speaker_profession": "CEO at Amazon"
     },
     {
-        "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
-        "speaker_name": "John Duo",
-        "speaker_profession": "Producer"
+        "id": 6,
+        "speaker_img": "https://i.ibb.co/4jhhQsc/speaker-6-1.jpg",
+        "speaker_name": "Sandra Aamodt",
+        "speaker_profession": "CEO at addis"
     },
     {
-        "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
-        "speaker_name": "John Duo",
-        "speaker_profession": "Producer"
+        "id": 7,
+        "speaker_img": "https://i.ibb.co/jVvWqb8/speaker-7-1.jpg",
+        "speaker_name": "Steven Addis",
+        "speaker_profession": "CEO at addis"
     },
     {
-        "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
-        "speaker_name": "John Duo",
-        "speaker_profession": "Producer"
+        "id": 8,
+        "speaker_img": "https://i.ibb.co/ctf76bM/speaker-8.jpg",
+        "speaker_name": "Vick Robel",
+        "speaker_profession": "Chief Disrupter at Un"
     }
 ]

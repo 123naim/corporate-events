@@ -1,20 +1,18 @@
 [
     {
         "id": 1,
-        "name": "Entomology International Congress of Vancouver",
-        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
-        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
+        "name": "Conferences and Seminars",
+        "event_img": "https://i.ibb.co/qdwxtjy/evet-1.jpg",
+        "event_logo": "https://i.ibb.co/bsyDVcS/event-logo-4.jpg",
         "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
-        "city": "New York",
-        "organized_by": "Tixtaide",
+        "city": "Texas",
+        "price": "$1500",
         "details_info": {
-            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
             "time": " 10:00 am - 10:00 pm",
-            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "event_info": " Certainly, are events that bring together professionals, experts, and stakeholders to exchange knowledge, ideas, and experiences in a structured setting. These gatherings provide opportunities for attendees to learn about the latest industry trends, research findings, and developments, as well as to network with peers and potential collaborators. Conferences often feature keynote speakers, multiple sessions, workshops, panel discussions, and in-depth presentations, while seminars are more focused and intimate, centered around specific topics or subject matters. Both conferences and seminars play a vital role in fostering knowledge sharing and professional development within their respective fields.",
             "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
             "evetn_about2": "Creating a co-founder agreement",
-            "evetn_about3": "Importance of defined roles",
-            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+            "evetn_about3": "Importance of defined roles"
         },
         "speaker": [
             {
@@ -23,33 +21,31 @@
                 "speaker_profession": "Producer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/9c8LkPg/speaker-2.jpg",
                 "speaker_name": "Mosh Hamedani",
                 "speaker_profession": "Software Engineer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/QD4c2D1/speaker-3.jpg",
                 "speaker_name": "Marc Abrahams",
                 "speaker_profession": "Editor at Improbable"
             }
         ]
     },
     {
-        "id": 1,
-        "name": "Entomology International Congress of Vancouver",
-        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
-        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
-        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
-        "city": "New York",
-        "organized_by": "Tixtaide",
+        "id": 2,
+        "name": "Trade Shows and Expos",
+        "event_img": "https://i.ibb.co/Wsr3r2g/event-2.jpg",
+        "event_logo": "https://i.ibb.co/bsyDVcS/event-logo-4.jpg",
+        "date": " fri, 10 Nov 2023 - Tue, 21 Nov 2023",
+        "city": "Chicago  Dubai  Las Vegas",
+        "price": "$2000",
         "details_info": {
-            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
             "time": " 10:00 am - 10:00 pm",
-            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "event_info": "Trade shows and expos are large-scale events that serve as platforms for businesses and industries to showcase their products, services, and innovations to a wide audience. These events bring together companies, exhibitors, and potential customers or clients, providing a unique opportunity for networking, marketing, and business development. These events play a crucial role in industry growth, knowledge dissemination, and business expansion, making them essential for companies looking to stay competitive and informed within their respective markets.",
             "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
             "evetn_about2": "Creating a co-founder agreement",
-            "evetn_about3": "Importance of defined roles",
-            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+            "evetn_about3": "Importance of defined roles"
         },
         "speaker": [
             {
@@ -58,33 +54,31 @@
                 "speaker_profession": "Producer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/9c8LkPg/speaker-2.jpg",
                 "speaker_name": "Mosh Hamedani",
                 "speaker_profession": "Software Engineer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/QD4c2D1/speaker-3.jpg",
                 "speaker_name": "Marc Abrahams",
                 "speaker_profession": "Editor at Improbable"
             }
         ]
     },
     {
-        "id": 1,
-        "name": "Entomology International Congress of Vancouver",
-        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
-        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
-        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
-        "city": "New York",
-        "organized_by": "Tixtaide",
+        "id": 3,
+        "name": "Team Building Workshops",
+        "event_img": "https://i.ibb.co/s3ZzPDN/event-3.jpg",
+        "event_logo": "https://i.ibb.co/bsyDVcS/event-logo-4.jpg",
+        "date": " Fri, 10 Nov 2023 - Tue, 21 Nov 2023",
+        "city": "Alasca",
+        "price": "$1000",
         "details_info": {
-            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
             "time": " 10:00 am - 10:00 pm",
-            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "event_info": "Team building workshops are interactive sessions designed to strengthen the bonds and improve the collaboration and communication skills of individuals within a group or team. These workshops are a popular corporate activity aimed at enhancing teamwork, problem-solving, and overall team dynamics. Here's an overview of what team building workshops involve. Team building workshops are widely used in corporate settings, sports teams, educational institutions, and various other group environments to enhance teamwork, foster a sense of belonging, and ultimately improve overall group productivity and cohesion.",
             "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
             "evetn_about2": "Creating a co-founder agreement",
-            "evetn_about3": "Importance of defined roles",
-            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+            "evetn_about3": "Importance of defined roles"
         },
         "speaker": [
             {
@@ -93,33 +87,31 @@
                 "speaker_profession": "Producer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/9c8LkPg/speaker-2.jpg",
                 "speaker_name": "Mosh Hamedani",
                 "speaker_profession": "Software Engineer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/QD4c2D1/speaker-3.jpg",
                 "speaker_name": "Marc Abrahams",
                 "speaker_profession": "Editor at Improbable"
             }
         ]
     },
     {
-        "id": 1,
-        "name": "Entomology International Congress of Vancouver",
-        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
-        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
-        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
+        "id": 4,
+        "name": "Product Launches",
+        "event_img": "https://i.ibb.co/2Zct4YG/event-4.jpg",
+        "event_logo": "https://i.ibb.co/bsyDVcS/event-logo-4.jpg",
+        "date": " sat, 10 Nov 2023 - Tue, 21 Nov 2023",
         "city": "New York",
-        "organized_by": "Tixtaide",
+        "price": "$1000",
         "details_info": {
-            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
             "time": " 10:00 am - 10:00 pm",
-            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "event_info": "Product launches are strategic events organized by businesses to introduce new products or services to the market. These events are crucial for generating excitement, building anticipation, and gaining attention from potential customers, partners, and the media. Here's a description of what product launches involve. Product launches are pivotal moments for businesses, as they set the stage for the product's success in the market. They require careful planning, marketing expertise, and effective execution to maximize their impact and ensure a successful product entry into the marketplace.",
             "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
             "evetn_about2": "Creating a co-founder agreement",
-            "evetn_about3": "Importance of defined roles",
-            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+            "evetn_about3": "Importance of defined roles"
         },
         "speaker": [
             {
@@ -128,33 +120,31 @@
                 "speaker_profession": "Producer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/9c8LkPg/speaker-2.jpg",
                 "speaker_name": "Mosh Hamedani",
                 "speaker_profession": "Software Engineer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/QD4c2D1/speaker-3.jpg",
                 "speaker_name": "Marc Abrahams",
                 "speaker_profession": "Editor at Improbable"
             }
         ]
     },
     {
-        "id": 1,
-        "name": "Entomology International Congress of Vancouver",
-        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
-        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
-        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
-        "city": "New York",
-        "organized_by": "Tixtaide",
+        "id": 5,
+        "name": "Corporate Meetings",
+        "event_img": "https://i.ibb.co/NnmQnQR/event-5.jpg",
+        "event_logo": "https://i.ibb.co/bsyDVcS/event-logo-4.jpg",
+        "date": " sat, 10 Nov 2023 - Tue, 21 Nov 2023",
+        "city": "California",
+        "price": "$1500",
         "details_info": {
-            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
             "time": " 10:00 am - 10:00 pm",
-            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "event_info": "Corporate meetings are formal gatherings convened by organizations to facilitate communication, decision-making, and collaboration among key stakeholders. These meetings serve as essential forums for discussing business matters, setting goals, and addressing challenges. Here's a description of corporate meetings. Corporate meetings can take various forms, including board meetings, executive meetings, departmental meetings, and staff meetings. Their frequency and structure depend on the organization's needs and objectives, but they are essential for maintaining effective communication, accountability, and alignment within the corporate environment.",
             "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
             "evetn_about2": "Creating a co-founder agreement",
-            "evetn_about3": "Importance of defined roles",
-            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+            "evetn_about3": "Importance of defined roles"
         },
         "speaker": [
             {
@@ -163,33 +153,31 @@
                 "speaker_profession": "Producer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/9c8LkPg/speaker-2.jpg",
                 "speaker_name": "Mosh Hamedani",
                 "speaker_profession": "Software Engineer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/QD4c2D1/speaker-3.jpg",
                 "speaker_name": "Marc Abrahams",
                 "speaker_profession": "Editor at Improbable"
             }
         ]
     },
     {
-        "id": 1,
-        "name": "Entomology International Congress of Vancouver",
-        "event_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg",
-        "event_logo": "https://i.ibb.co/XVCfq9w/event-logo-1.jpg",
-        "date": "Fri, 15 Sep 2023 - Sat, 16 Sep 2023",
-        "city": "New York",
-        "organized_by": "Tixtaide",
+        "id": 6,
+        "name": "Award Ceremonies",
+        "event_img": "https://i.ibb.co/H798kS6/event-6.jpg",
+        "event_logo": "https://i.ibb.co/bsyDVcS/event-logo-4.jpg",
+        "date": " sat, 10 Nov 2023 - Tue, 21 Nov 2023",
+        "city": "Florida",
+        "price": "$2000",
         "details_info": {
-            "cover_photo": "https://i.ibb.co/gjyKFPz/Details-Page-Cover-photo.jpg",
             "time": " 10:00 am - 10:00 pm",
-            "event_info": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technology for business, where people communicate, and are inspired to find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of DangeroRealities. It features sessions",
+            "event_info": "Corporate meetings are formal gatherings convened by organizations to facilitate communication, decision-making, and collaboration among key stakeholders. These meetings serve as essential forums for discussing business matters, setting goals, and addressing challenges. Here's a description of corporate meetings. Corporate meetings can take various forms, including board meetings, executive meetings, departmental meetings, and staff meetings. Their frequency and structure depend on the organization's needs and objectives, but they are essential for maintaining effective communication, accountability, and alignment within the corporate environment.",
             "evetn_about1": "Are you a founder that is building a new better future for women? Are you working with another co-founder or considering finding one? Learn how to build a co-founder relationship more effectively at the virtual event!",
             "evetn_about2": "Creating a co-founder agreement",
-            "evetn_about3": "Importance of defined roles",
-            "event_cover_img": "https://i.ibb.co/cJ2126J/event-image-4-750x386.jpg"
+            "evetn_about3": "Importance of defined roles"
         },
         "speaker": [
             {
@@ -198,16 +186,16 @@
                 "speaker_profession": "Producer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/9c8LkPg/speaker-2.jpg",
                 "speaker_name": "Mosh Hamedani",
                 "speaker_profession": "Software Engineer"
             },
             {
-                "speaker_img": "https://i.ibb.co/FkQSh3Y/event-1-speaker-1.jpg",
+                "speaker_img": "https://i.ibb.co/QD4c2D1/speaker-3.jpg",
                 "speaker_name": "Marc Abrahams",
                 "speaker_profession": "Editor at Improbable"
             }
         ]
     }
-    
 ]
+

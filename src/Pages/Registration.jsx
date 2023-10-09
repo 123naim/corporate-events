@@ -1,14 +1,15 @@
 import { useContext } from "react";
 import { AuthContext } from "../Provider/AuthProvider";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { FcGoogle } from 'react-icons/fc';
-import { ToastContainer, toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { updateProfile } from "firebase/auth";
 
 const Registration = () => {
 
     const { createUser, googleSignIn } = useContext(AuthContext)
+    const navigate = useNavigate();
 
     const handlesubmit = async (e) => {
         e.preventDefault()
@@ -18,30 +19,39 @@ const Registration = () => {
         const password = e.target.password.value;
         console.log(name, email, password)
 
-        createUser(email, password )
+        await createUser(email, password)
             .then(result => {
                 toast.success('Registration successful');
-                console.log(result.user);
 
                 // updateProfile
                 updateProfile(result.user, {
                     displayName: name,
                     photoURL: img
                 })
-                .then(() => console.log('profile update'))
-                .catch()
+                    .then(() => {
+                        navigate(location?.state ? location.state : '/')
+                    })
+                    .catch()
+
+
+                // navigate after login
+
             })
             .catch(error => {
                 toast.error('Registration failed. Please try again.');
                 console.error(error)
             })
-        
+
     };
 
     const handleGoogleSignIn = () => {
         googleSignIn()
             .then(result => {
                 console.log(result.user)
+
+
+                // navigate after login
+                navigate(location?.state ? location.state : '/')
             })
             .catch(error => {
                 console.error(error)
@@ -78,7 +88,7 @@ const Registration = () => {
                                     <label className="label -mt-2">
                                         <span className="label-text">Password</span>
                                     </label>
-                                    <input type="password" placeholder="Password" className=" py-2 px-3 border border-gray-300 focus:border-gray-500 focus:border-2 focus:outline-none rounded-lg"name="password" required />
+                                    <input type="password" placeholder="Password" className=" py-2 px-3 border border-gray-300 focus:border-gray-500 focus:border-2 focus:outline-none rounded-lg" name="password" required />
                                 </div>
                                 <div className="form-control mt-4">
                                     <button className="btn btn-primary">Register</button>
@@ -92,7 +102,6 @@ const Registration = () => {
                     </div>
                 </div>
             </div>
-            <ToastContainer></ToastContainer>
         </div>
     );
 };

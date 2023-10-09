@@ -19,7 +19,7 @@ const PopularSpeak = () => {
                             <img className="rounded-full" src={speak.speaker_img} alt="" />
                         </div>
                         <h3 className="mt-3 text-2xl font-bold">{speak.speaker_name}</h3>
-                        <p className="mt-2 text-gray-700">{speak.speaker_name}</p>
+                        <p className="mt-2 text-gray-700">{speak.speaker_profession}</p>
                         <p className="flex text-xl gap-2 items-center justify-center mt-7">
                             <FaFacebookF className="text-blue-700"></FaFacebookF>
                             <FaTwitter className="text-blue-400"></FaTwitter>

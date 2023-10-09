@@ -3,15 +3,15 @@ import { Link } from 'react-router-dom';
 
 
 const SingleData = ({ singleData }) => {
-    const { id, name, event_img, event_logo, date, city, organized_by } = singleData
+    const { id, name, event_img, event_logo, date, city, price, details_info } = singleData
     return (
         <div className="bg-gray-100 rounded-xl">
-            <div className="relative">
-                <img className="rounded-t-xl" src={event_img} alt="" />
-                <img className="absolute top-4 left-4 w-24 h-24 rounded-xl" src={event_logo} alt="" />
+            <div>
+                <img className="rounded-t-xl w-full h-[200px]" src={event_img} alt="" />
             </div>
             <div className="p-5">
                 <h2 className="text-2xl font-semibold">{name}</h2>
+                <p className='text-xl mt-3'>{details_info.event_info.slice(0, 50)}......</p>
                 <p className='flex gap-4 items-center mt-5 text-gray-700'>
                     <MdDateRange className='text-xl'></MdDateRange>
                     {date}
@@ -21,10 +21,9 @@ const SingleData = ({ singleData }) => {
                     {city}
                 </p>
             </div>
-            <div className="p-5 flex justify-between items-center">
+            <div className="px-5 pb-5 flex justify-between items-center">
                 <div>
-                    <p className='text-gray-700'>Organized By</p>
-                    <p className='mt-1 text-2xl font-semibold'>{organized_by}</p>
+                    <p className='text-gray-700 font-semibold text-2xl'>Price: {price}</p>
                 </div>
                 <div>
                     <button className='btn btn-primary mt-1 text-white font-semibold'> <Link to={`/carddetail/${id}`}>View Details</Link> </button>
@@ -35,3 +34,11 @@ const SingleData = ({ singleData }) => {
 };
 
 export default SingleData;
+
+
+// Conferences and Seminars
+// Trade Shows and Expos
+// Team Building Workshops
+// Product Launches
+// Corporate Meetings
+// Award Ceremonies
