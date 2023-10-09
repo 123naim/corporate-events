@@ -1,9 +1,9 @@
 import { useContext, useEffect, useState } from "react";
 import Banner from "../Navbar-banner/Banner";
 import SingleData from "../Components/SingleData";
-import OrganizData from "../Components/organizData";
 import PopularSpeak from "../Components/PopularSpeak";
 import { AuthContext } from "../Provider/AuthProvider";
+import OrganizData from "../Components/OrganizData";
 
 
 const Home = () => {

@@ -9,7 +9,7 @@ const Header = () => {
 
     const pageLink = <>
         <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/category'>Category</NavLink></li>
+        <li><NavLink to='/about'>AboutUs</NavLink></li>
         <li><NavLink to='/contact'>Contact</NavLink></li>
     </>
 
@@ -42,13 +42,15 @@ const Header = () => {
                                 {
                                     user.photoURL ? <>
                                         <div className="flex items-center gap-3">
-                                            <img className="w-16 h-16 rounded-full" src={user.photoURL} alt="" />
-                                            <p>{user.displayName}</p>
+                                            <div className="flex items-center gap-8 border rounded-xl px-2 py-1">
+                                                <img className="w-10 h-10 rounded-full" src={user.photoURL} alt="" />
+                                                <p>{user.displayName}</p>
+                                            </div>
                                             <a onClick={handleLogout} href="">LogOut</a>
                                         </div>
                                     </> : <>
                                         <div className="flex items-center gap-3">
-                                            <div className="flex items-center gap-8 border rounded-xl p-1">
+                                            <div className="flex items-center gap-8 border rounded-xl px-2 py-1">
                                                 <img className="w-10 h-10 rounded-full" src="https://i.ibb.co/j8ZdpDs/default-profile-2.jpg" alt="" />
                                                 <p>{user.displayName}</p>
                                             </div>
